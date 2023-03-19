@@ -1,5 +1,7 @@
 # Selenium Project for Ecom Demo Website
 
+![Screenshot (9)](https://user-images.githubusercontent.com/45835546/226153233-df8817f7-209a-4f21-9e29-3ef20fd35638.png)
+
 **This is my first Python Selenium Project where I test an ecom demo website.**\
 http://tutorialsninja.com/demo/
 
