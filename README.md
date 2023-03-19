@@ -16,7 +16,7 @@ These are the actions taken:
 7) Scan through calendar to specific date
 8) Add items and go to Checkout
 9) Click Guest account and complete form
-10) Print final price in console
+10) Print final price text in console
 11) Confirm and print Success text in console
 12) Close window
 
