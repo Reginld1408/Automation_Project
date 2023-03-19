@@ -5,6 +5,8 @@
 **This is my first Python Selenium Project where I test an ecom demo website.**\
 http://tutorialsninja.com/demo/
 
+Requirements: Latest versions of Python, PyCharm and Selenium
+
 These are the actions taken:
 
 1) Select laptops tab
@@ -19,5 +21,3 @@ These are the actions taken:
 10) Print final price text in console
 11) Confirm and print Success text in console
 12) Close window
-
-Service, Select and ActionChains are imported and used
