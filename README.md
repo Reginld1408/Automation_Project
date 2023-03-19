@@ -5,7 +5,7 @@
 **This is my first Python Selenium Project where I test an ecom demo website.**\
 http://tutorialsninja.com/demo/
 
-Requirements: Latest versions of Python, PyCharm and Selenium
+Requirements: Latest versions of Python, PyCharm and Selenium.
 
 These are the actions taken:
 
