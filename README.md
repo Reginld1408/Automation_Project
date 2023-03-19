@@ -3,7 +3,7 @@
 **This is my first Python Selenium Project where I test an ecom demo website.**\
 http://tutorialsninja.com/demo/
 
-These are the actions produced:
+These are the actions taken:
 
 1) Select laptops tab
 2) Select HP laptop
